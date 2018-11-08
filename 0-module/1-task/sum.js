@@ -1,6 +1,4 @@
 function sum(a, b) {
-  // dsaf asdfasdf adsfasdf asdf
-  // asdfasdf
   return a + b;
 }
 
